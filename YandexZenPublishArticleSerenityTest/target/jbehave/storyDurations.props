@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Sat May 23 12:44:34 GMT+03:00 2020
+threads=1
+total=56000
+threadAverage=56000
+stories/create_article/CreateAnArticle.story=56000

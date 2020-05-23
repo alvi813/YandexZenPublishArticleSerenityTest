@@ -1,0 +1,6 @@
+org\example\steps\serenity\EndUserSteps.class
+org\example\AcceptanceTestSuite.class
+org\example\pages\PublicationPage.class
+org\example\pages\PublishedPage.class
+org\example\pages\EditArticlePage.class
+org\example\steps\PublishArticleSteps.class

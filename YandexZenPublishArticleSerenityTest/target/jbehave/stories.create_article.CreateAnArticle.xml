@@ -1,0 +1,7 @@
+<story path="stories/create_article/CreateAnArticle.story" title="Publish an article on YandexZen">
+<scenario keyword="Scenario:" title="Publishing an article in YandexZen">
+<step outcome="successful">Given the user is on the Publication page</step>
+<step outcome="successful">When the user publish an article with the <parameter>tag</parameter> &apos;tag&apos;</step>
+<step outcome="successful">Then they should see the published YandexZen article with the <parameter>tag</parameter> &apos;tag&apos;</step>
+</scenario>
+</story>
